@@ -1,1 +1,0 @@
-{"format":"opautoclicker_macro_export","formatVersion":1,"exportedAt":1771612080506,"macros":[{"id":1771592965650,"isAntiDetec":false,"multiplePointModels":[{"clickDuration":80,"delayTime":1,"endX":1070,"endY":139,"isSwipe":true,"loop":1,"position":1,"startX":750,"startY":139,"swipeDuration":120}],"name":"FakeHack_KDRV","stopLoop":5,"stopTime":30000,"stopType":"INFINITE"}]}
